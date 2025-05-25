@@ -1,4 +1,4 @@
-# 🙋‍♀️ Hello world, I'm Aditi!
+# 👋 Hello world, I'm Aditi!
 
 🎓 I’m a sophomore at **Boston University** majoring in **Computer Science** and minoring in **Economics**, with a strong interest in new technologies and innovations in the field. I’m currently maintaining a **4.0 major GPA** while actively building my programming skills.
 
