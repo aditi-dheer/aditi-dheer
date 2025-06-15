@@ -1,6 +1,6 @@
 # 👋 Hello world, I'm Aditi!
 
-🎓 I’m a sophomore at **Boston University** majoring in **Computer Science** and minoring in **Economics**, with a strong interest in new technologies and innovations in the field. I’m currently maintaining a **4.0 major GPA** while actively building my programming skills.
+🎓 I’m a rising junior at **New York University** majoring in **Computer Science** and minoring in **Data Science**, with a strong interest in new technologies and innovations in the field. I am a transfer student from Boston University, where I had a **4.0 major GPA** and **3.98 cummulative GPA**.
 
 🤖 I’m an **AI/ML Fellow at the MIT Schwarzman College of Computing**, where I’m applying machine learning theory to real-world challenges and expanding my technical toolkit through hands-on development.
 
@@ -60,7 +60,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: aditi02@bu.edu  
+- 📧 Email: ad6848@nyu.edu
 - 🌐 LinkedIn: https://www.linkedin.com/in/aditi-dheer0202
 
 
