@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -79,6 +80,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+![snake gif](https://github.com/aditi-dheer/aditi-dheer/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
