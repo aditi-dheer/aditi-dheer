@@ -10,7 +10,8 @@
 - Machine Learning
 - Data Structures and Algorithms  
 - Computer Systems  
-- Analysis of Algorithms  
+- Analysis of Algorithms
+- Probability  
 - Discrete Math  
 - Calculus  
 - Statistics
