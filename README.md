@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/FAISS-0055A4?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word2Vec-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-2B2B2B?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
