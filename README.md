@@ -19,7 +19,37 @@
 🚀 I'm a fast learner, detail-oriented, and thrive in collaborative environments. Whether working independently or in a team, I bring curiosity, dedication, and a problem-solving mindset to every project.
 
 ---
+## 📌 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/aditi-dheer/adult-income-prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=adult-income-prediction&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aditi-dheer/mit-ml-portfolio">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=mit-ml-portfolio&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aditi-dheer/sign-language-detection">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sign-language-detection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aditi-dheer/ScholarBot">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=ScholarBot&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aditi-dheer/sentiment-analysis-book-reviews">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sentiment-analysis-book-reviews&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aditi-dheer/memory-game">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=memory-game&theme=tokyonight" />
+  </a>
+</p>
+
+
+--- 
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -84,7 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-![snake gif](https://github.com/aditi-dheer/aditi-dheer/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/aditi-dheer/aditi-dheer/blob/output/github-contribution-grid-snake.svg) -->
 
 
 ---
