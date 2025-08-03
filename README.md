@@ -31,17 +31,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aditi-dheer/sign-language-detection">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sign-language-detection&theme=tokyonight" />
-  </a>
   <a href="https://github.com/aditi-dheer/ScholarBot">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=ScholarBot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aditi-dheer/sentiment-analysis-book-reviews">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sentiment-analysis-book-reviews&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aditi-dheer/sentiment-analysis-book-reviews">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sentiment-analysis-book-reviews&theme=tokyonight" />
+  <a href="https://github.com/aditi-dheer/sign-language-detection">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sign-language-detection&theme=tokyonight" />
   </a>
   <a href="https://github.com/aditi-dheer/memory-game">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=memory-game&theme=tokyonight" />
