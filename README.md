@@ -25,9 +25,7 @@
   <a href="https://github.com/aditi-dheer/adult-income-prediction">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=adult-income-prediction&theme=tokyonight" />
   </a>
-  <a href="https://github.com/aditi-dheer/mit-ml-portfolio">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=mit-ml-portfolio&theme=tokyonight" />
-  </a>
+
 </p>
 
 <p align="center">
