@@ -23,28 +23,28 @@
 
 <p align="center">
   <a href="https://github.com/aditi-dheer/adult-income-prediction">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=adult-income-prediction&theme=dark" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=adult-income-prediction&theme=dark" />
   </a>
   <a href="https://github.com/aditi-dheer/mit-ml-portfolio">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=mit-ml-portfolio&theme=dark&cacheBust=1" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=mit-ml-portfolio&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aditi-dheer/ScholarBot">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=ScholarBot&theme=dark" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=ScholarBot&theme=dark" />
   </a>
   <a href="https://github.com/aditi-dheer/sentiment-analysis-book-reviews">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sentiment-analysis-book-reviews&theme=dark" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=sentiment-analysis-book-reviews&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aditi-dheer/sign-language-detection">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=sign-language-detection&theme=dark" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=sign-language-detection&theme=dark" />
   </a>
   <a href="https://github.com/aditi-dheer/memory-game">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aditi-dheer&repo=memory-game&theme=dark" />
+    <img width="400" src="https://stats-repo-gamma.vercel.app/api/pin/?username=aditi-dheer&repo=memory-game&theme=dark" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- ![snake gif](https://github.com/aditi-dheer/aditi-dheer/blob/output/github-contribution-grid-snake.svg) -->
